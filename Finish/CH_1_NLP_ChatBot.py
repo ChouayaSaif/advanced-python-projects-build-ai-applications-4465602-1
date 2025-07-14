@@ -37,5 +37,4 @@ class ChatBot:
         print("ChatBot: Thank you for chatting. Have a great day!")
 
 if __name__ == "__main__":
-    # Creating the chatbot and starting the chat loop.
     ChatBot().chat()
